@@ -48,7 +48,7 @@ const Content = () => {
               <Select
                 labelId="demo-simple-select-label"
                 id="demo-simple-select"
-                value={age}
+                
                 label="Age"
                 onChange={handleChange}
               >
